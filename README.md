@@ -8,4 +8,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 https://christopher-marcellus12.github.io/My-Portfolio/
 
-<img width="1624" alt="Screenshot 2024-06-11 at 8 40 19 PM" src="https://github.com/Christopher-Marcellus12/My-Portfolio/assets/70063655/968704c1-62d0-45d6-a2ee-0e5e6d1842a1">
+<img width="1507" alt="Screenshot 2024-06-11 at 8 44 24 PM" src="https://github.com/Christopher-Marcellus12/My-Portfolio/assets/70063655/05159c91-3826-40b5-b4e7-b9c1db43d3c9">
+
