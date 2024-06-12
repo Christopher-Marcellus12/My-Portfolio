@@ -294,7 +294,7 @@ span.home-imgHover{
     opacity: .8;
 } */
 
-.home-imgHover::after {
+/*.home-imgHover::after {
     background: url('saskia.PNG.MP4') no-repeat;
     background-size: cover;
     background-position: center;
@@ -304,11 +304,11 @@ span.home-imgHover{
     right: 0;
     width: 120%;
     height: 100%;
-    /* background: red; */
-    /* animation: showRight 1s ease forwards;
-    animation-delay: 3s; */
+     background: red; 
+     animation: showRight 1s ease forwards;
+    animation-delay: 3s; 
     z-index: 100;
-}
+}*/
 
 /* KEYFRAMES ANIMATION */
 @keyframes showRight {
